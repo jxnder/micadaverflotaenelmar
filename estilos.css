@@ -234,6 +234,7 @@ section {
   height: 24px;
   filter: invert(1);
   transition: transform 0.2s ease;
+  margin: 0 auto;
 }
 
 .redes-contacto img:hover {
