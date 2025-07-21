@@ -229,7 +229,7 @@ section {
   margin-left: 10px;
 }
 
-.redes-contacto img {
+.redes-contacto img, .info-concierto a img {
   width: 24px;
   height: 24px;
   filter: invert(1);
