@@ -11,7 +11,7 @@ body {
   padding: 20px;
   background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
 }
-header h1 img, #conciertos h2 img{width:50px}
+img.gif{width:50px}
 header {
   text-align: center;
   padding: 20px 0;
@@ -261,6 +261,7 @@ section {
     margin: 0 8px;
   }
 }
+
 
 
 
