@@ -170,7 +170,7 @@ section {
   margin: 5px 0 0;
 }
 
-.info-concierto p .text-pink{
+.info-concierto p span.text-pink{
   color: #FEAEC1
 }
 
@@ -261,4 +261,5 @@ section {
     margin: 0 8px;
   }
 }
+
 
