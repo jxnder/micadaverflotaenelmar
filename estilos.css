@@ -169,6 +169,11 @@ section {
 .info-concierto p {
   margin: 5px 0 0;
 }
+
+.info-concierto p .text-pink{
+  color: #FEAEC1
+}
+
 .banner-contacto {
   background-image: url('img/487772596_17875705440300086_8627775343611899165_n.jpg');
   background-size: cover;
@@ -256,3 +261,4 @@ section {
     margin: 0 8px;
   }
 }
+
